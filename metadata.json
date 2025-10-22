@@ -1,0 +1,5 @@
+{
+  "name": "HVAC Plan Bill of Materials Generator",
+  "description": "An AI-powered application that analyzes 2D HVAC plans from PDF files to generate a detailed bill of materials. It identifies evaporators, condensers, calculates piping distances, and leverages a knowledge base of past projects to create an accurate 'catálogo de conceptos' for air conditioning systems.",
+  "requestFramePermissions": []
+}
